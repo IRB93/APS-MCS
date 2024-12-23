@@ -1,3 +1,9 @@
+# APS-MCS Shiny Application
+# Copyright (C) 2024 Iñigo Ruiz Barrio
+#
+# This work is licensed under the Creative Commons Attribution-NoDerivs 4.0 International License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/
+
 library(shiny)
 library(shinydashboard)
 library(shinyjs)
