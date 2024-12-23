@@ -1,6 +1,18 @@
 # Atypical Parkinsonian Syndromes - Multidimensional Clinical Scale (APS-MCS) Shiny Application
 
-This Shiny application is a part of the paper "Development and Validation of a New Clinical Rating Scale for Differential Diagnosis of Atypical Parkinsonian Syndromes" and provides an interactive tool for assessing the APS-MCS.
+This Shiny application is a part of the paper "Development and Validation of a New Clinical Rating Scale for Differential Diagnosis of Atypical Parkinsonian Syndromes" and provides an interactive tool for assessing the APS-MCS. 
+
+## License
+This project is licensed under the Creative Commons Attribution-NoDerivs 4.0 International License (CC BY-ND 4.0).
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+
+Under the following terms:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+- **NoDerivs**: You may not remix, transform, or build upon the material.
+
+For more details, see the [LICENSE](./LICENSE) file or visit [Creative Commons](http://creativecommons.org/licenses/by-nd/4.0/).
 
 ## Accessing the Application
 
